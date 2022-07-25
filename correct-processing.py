@@ -2,6 +2,7 @@
 # coding: utf8
 
 """
+python3 correct-processing.py /path_with_processed_data [-f file.lst, use this flag if you want to specify block of runs you are interested in] [-r, use this flag if you want to reprocess data]
 """
 
 import os
